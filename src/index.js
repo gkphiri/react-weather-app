@@ -15,7 +15,10 @@ root.render(
     <br />
     <footer>
       This project was coded by <a href="mailto:kphiri68">Grace Phiri</a> and is{" "}
-      <a href="https://github">open-sourced on GitHub</a> and hosted on
+      <a href="https://github.com/gkphiri/react-weather-app.git">
+        open-sourced on GitHub
+      </a>
+      and hosted on
       <a href="">Netlify</a>
     </footer>
   </StrictMode>
