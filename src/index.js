@@ -19,7 +19,7 @@ root.render(
         open-sourced on GitHub
       </a>
       and hosted on
-      <a href="">Netlify</a>
+      <a href="https://serene-faun-31cfe3.netlify.app/">Netlify</a>
     </footer>
   </StrictMode>
 );
