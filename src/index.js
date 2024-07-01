@@ -9,7 +9,7 @@ const root = createRoot(rootElement);
 root.render(
   <StrictMode>
     <div className="App">
-      <h1>React Weather App</h1>
+      <h1>Weather App</h1>
       <WeatherSearch />
     </div>
     <br />
